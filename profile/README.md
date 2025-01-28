@@ -18,10 +18,10 @@ Nous encourageons tout le monde à contribuer, que vous soyez débutant ou exper
 2. **Rejoindre un projet** : Consultez les projets existants et proposez votre aide.
 3. **Améliorer la documentation** : Aidez-nous à améliorer les guides et la documentation.
 
-Consultez notre [guide de contribution](CONTRIBUTING.md) pour plus de détails.
+Consultez notre [guide de contribution](../CONTRIBUTING.md) pour plus de détails.
 
 ## 📜 Code de Conduite
-Nous nous engageons à maintenir un environnement respectueux et inclusif. Veuillez lire notre [Code de Conduite](CODE_OF_CONDUCT.md) avant de participer.
+Nous nous engageons à maintenir un environnement respectueux et inclusif. Veuillez lire notre [Code de Conduite](../CODE_OF_CONDUCT.md) avant de participer.
 
 ## 👥 Rejoindre la Communauté
 - **Discord** : [Lien d'invitation](https://discord.gg/CSBSsNw3)
@@ -29,7 +29,7 @@ Nous nous engageons à maintenir un environnement respectueux et inclusif. Veuil
 - **Meetups** : Restez à l'écoute pour les événements à venir.
 
 ## 📄 Licence
-Ce projet est sous licence [MIT](LICENSE). Vous êtes libre d'utiliser, modifier et partager le code.
+Ce projet est sous licence [MIT](../LICENSE). Vous êtes libre d'utiliser, modifier et partager le code.
 
 ---
 
